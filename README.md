@@ -1,3 +1,3 @@
 # Personal-website
 
-**Visit** : [live demo]( https://ganapathyda.github.io/Personal-Site/)
+**Visit** : [live demo]( https://GanapathySubramanian.github.io/Personal-Site/)
